@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 📫 One can reach me via [Twitter](https://twitter.com/ismathim), [Email](ismathim@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ismath-haakifa/)
 - 😄 Pronouns: She/ her
 - ⚡  Fun fact: I started coding as a result of a small challenge between me and my friend. I'm a Polyglot 
-- 🔭 I'm all in for a discussion on Space and Cars 
+- 🔭 I'm all in for a discussion on Space 🌌 and Cars 🏎
+
+
 
 
 
