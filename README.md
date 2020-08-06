@@ -5,7 +5,7 @@
 I love creating acceessible web technologies
 -->
 
-- 💻 I’m Working on Machine Learning and Web Developement 
+- 💻 I’m Working on [Machine Learning](https://github.com/ismathim/Machine-Learning-Portfolio) and [Web Developement](https://github.com/ismathim/Web-Dev-Portfolio) Projects
 - 🌱 I’m currently learning Pytorch, React and Space Technologies
 - 🖋 I write Tech Articles [here](https://medium.com/@ismathhaakifa) 
 - 💬 Ask me about anything related to Python, HTML, CSS, JavaScript and C
