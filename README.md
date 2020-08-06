@@ -2,15 +2,20 @@
 
 <!--
 **ismathim/ismathim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love creating acceessible web technologies
+-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I’m Working on Machine Learning and Web Developement 
+- 🌱 I’m currently learning Pytorch, React and Space Technologies
+- 🖋 I write Tech Articles [here](https://medium.com/@ismathhaakifa) 
+- 💬 Ask me about anything related to Python, HTML, CSS, JavaScript and C
+- 📫 One can reach me via [Twitter](https://twitter.com/ismathim), [Email](ismathim@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ismath-haakifa/)
+- 😄 Pronouns: She/ her
+- ⚡  Fun fact: I started coding as a result of a small challenge between me and my friend. I'm a Polyglot 
+- 🔭 I'm all in for a discussion on Space and Cars 
+
+
+
+
