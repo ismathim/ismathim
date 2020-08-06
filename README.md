@@ -5,8 +5,6 @@
 I love creating acceessible web technologies
 -->
 
-Here are some ideas to get you started:
-
 - 💻 I’m Working on Machine Learning and Web Developement 
 - 🌱 I’m currently learning Pytorch, React and Space Technologies
 - 🖋 I write Tech Articles [here](https://medium.com/@ismathhaakifa) 
