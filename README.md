@@ -11,7 +11,7 @@ I love creating acceessible web technologies
 - 💬 Reach me about anything related to Python, HTML, CSS, JavaScript and C
 - 📫 One can reach me via [Twitter](https://twitter.com/ismathim), [Email](ismathim@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ismath-haakifa/)
 - 😄 Pronouns: She/ her
-- ⚡  Fun fact: I started coding as a result of a small challenge between me and my friend. I'm a Polyglot 
+- ⚡  Fun fact: The Footprints on the moon will be there for 100 Million years.
 - 🔭 I'm all in for a discussion on Space 🌌 and Cars 🏎
 
 
